@@ -61,7 +61,7 @@ Obrigado!
     '''
     )
             
-    elif sistema == 03:
+    elif sistema == 0:
             break
 
     else:
